@@ -1,53 +1,46 @@
 # 📶 Signal Sense
 
-### Rural Signal Measurement & Network Analysis Platform
+## Rural Signal Measurement & Network Analysis Platform
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-Latest-blue?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-Educational-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Latest-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Community%20Service%20Project-CSP-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Measure • Analyze • Improve Rural Connectivity</b>
+  <b>📡 Measure • Analyze • Improve Rural Connectivity</b>
 </p>
 
 ---
 
-## 🌟 Overview
+## 🌟 About the Project
 
-Signal Sense is a Flutter-powered mobile application developed to measure, monitor, and analyze mobile network signal strength in rural areas.
+Signal Sense is a Flutter-based mobile application developed as a **Community Service Project (CSP)** to measure and analyze mobile network signal strength in rural areas.
 
-The application enables users to collect real-time signal information, identify weak network zones, and contribute to connectivity improvement initiatives.
+The application helps identify weak coverage zones, collect real-time signal data, and support initiatives aimed at improving digital connectivity in underserved regions.
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-📡 Real-Time Signal Strength Monitoring
-
-📍 GPS-Based Location Tracking
-
-📶 Network Detection (2G / 3G / 4G / 5G)
-
-📊 Signal Quality Analysis
-
-🗺️ Rural Coverage Data Collection
-
-📱 Android APK Support
-
-🎯 Simple & User-Friendly Interface
-
-⚡ Fast and Lightweight Performance
+* 📡 Real-Time Signal Strength Monitoring
+* 📍 GPS-Based Location Tracking
+* 📶 Network Detection (2G / 3G / 4G / 5G)
+* 📊 Signal Quality Analysis
+* 🗺️ Rural Coverage Data Collection
+* 📱 Android APK Support
+* ⚡ Fast & Lightweight Performance
+* 🎯 User-Friendly Interface
 
 ---
 
 ## 📱 Application Screenshots
 
-> Add your screenshots here
+Add screenshots of your application inside the `screenshots/` folder.
 
-```text id="x5kr7t"
+```text
 screenshots/
 ├── home.png
 ├── signal_page.png
@@ -59,23 +52,47 @@ screenshots/
 
 ## 📥 Download APK
 
-The latest APK is available inside the repository:
+The latest Android APK is available in:
 
-```text id="zd6y9s"
+```text
 apk/Signal Sense.apk
 ```
 
-Install the APK directly on your Android device.
+Install the APK on any Android device and grant the required permissions for signal measurement and location access.
+
+---
+
+## 📄 Project Report
+
+The complete Community Service Project documentation is available in:
+
+```text
+docs/csp.pdf
+```
+
+The report includes:
+
+* Introduction
+* Problem Statement
+* Objectives
+* Methodology
+* Data Collection Process
+* Results & Analysis
+* Conclusion
+* Future Scope
 
 ---
 
 ## 🏗️ Project Structure
 
-```text id="wkjmpc"
+```text
 rural_signal_measurement/
 │
 ├── apk/
 │   └── Signal Sense.apk
+│
+├── docs/
+│   └── csp.pdf
 │
 ├── lib/
 │   ├── screens/
@@ -99,13 +116,13 @@ rural_signal_measurement/
 
 ## 🛠️ Technology Stack
 
-| Technology   | Purpose                    |
-| ------------ | -------------------------- |
-| Flutter      | Cross-Platform Development |
-| Dart         | Application Logic          |
-| GPS Services | Location Tracking          |
-| Android SDK  | Mobile Deployment          |
-| Network APIs | Signal Data Collection     |
+| Technology   | Purpose                           |
+| ------------ | --------------------------------- |
+| Flutter      | Cross-Platform Mobile Development |
+| Dart         | Application Logic                 |
+| GPS Services | Location Tracking                 |
+| Android SDK  | Mobile Deployment                 |
+| Network APIs | Signal Data Collection            |
 
 ---
 
@@ -139,28 +156,28 @@ flutter run
 
 ## 🎯 Project Objectives
 
-✅ Measure mobile network signal strength
+✅ Measure rural mobile network signal strength
 
-✅ Analyze rural connectivity performance
+✅ Identify weak coverage and dead zones
 
-✅ Identify weak coverage zones
+✅ Collect location-based signal datasets
 
-✅ Generate useful network datasets
+✅ Analyze network performance
 
-✅ Support digital connectivity research
+✅ Support rural digital connectivity initiatives
 
-✅ Assist community service initiatives
+✅ Contribute to community service and research activities
 
 ---
 
 ## 📊 Future Enhancements
 
-* AI-Based Signal Prediction
-* Coverage Heat Maps
-* Cloud Synchronization
-* Offline Data Collection
-* Analytics Dashboard
-* Telecom Network Insights
+* 🤖 AI-Based Signal Prediction
+* 🗺️ Signal Coverage Heat Maps
+* ☁️ Cloud Synchronization
+* 📶 Offline Data Collection
+* 📈 Analytics Dashboard
+* 📡 Telecom Infrastructure Insights
 
 ---
 
@@ -182,7 +199,7 @@ flutter run
 
 If you found this project useful:
 
-🌟 Star this repository
+⭐ Star this repository
 
 🍴 Fork this repository
 
@@ -192,10 +209,10 @@ If you found this project useful:
 
 ## 📜 License
 
-This project is developed for educational, research, and community service purposes.
+This project is intended for educational, research, and community service purposes.
 
 ---
 
 <p align="center">
-  Made with ❤️ using Flutter
+  <b>Made with ❤️ using Flutter</b>
 </p>
