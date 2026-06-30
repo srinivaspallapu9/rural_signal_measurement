@@ -48,7 +48,7 @@ screenshots/
 └── analysis.png
 ```
 
----
+--
 
 ## 📥 Download APK
 
