@@ -112,7 +112,7 @@ rural_signal_measurement/
 └── README.md
 ```
 
----
+--
 
 ## 🛠️ Technology Stack
 
